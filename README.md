@@ -1,3 +1,2 @@
-# ALX Backend python
-
-Repository that stores python backend projects 
+# alx-backend-python
+Python backend tasks
